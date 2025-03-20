@@ -12,9 +12,14 @@ IP-CIDR,103.115.43.2/32,no-resolve
 
 # 阿尔比恩游戏
 DOMAIN-SUFFIX,albiononline.com
-
 IP-CIDR,35.190.147.133/32,no-resolve,🎮 游戏平台
 IP-CIDR,35.241.64.11/32,no-resolve,🎮 游戏平台
+
+# 字节跳动系
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,qingbei.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
