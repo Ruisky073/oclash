@@ -10,6 +10,12 @@ DOMAIN-KEYWORD,1e100
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
+# 阿尔比恩游戏
+DOMAIN-SUFFIX,albiononline.com
+
+IP-CIDR,35.190.147.133/32,no-resolve,🎮 游戏平台
+IP-CIDR,35.241.64.11/32,no-resolve,🎮 游戏平台
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
